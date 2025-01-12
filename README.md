@@ -9,9 +9,12 @@ execute with any roblox injector
 everything works great but on bloxfruit and fisch only though
 
 
+#Requirements
+
+needs executor - above 70% unc should be fine
 
 if u need executor please use my friend's executor level 7 84% unc - advertising
-free as well
+using this EXECUTOR IS FREE - just spread the word
 
 
 u can download by going to this link - copy and paste in new tab
