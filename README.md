@@ -6,6 +6,21 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/mushroom1231/library/
 
 execute with any roblox injector
 
-every good works on bloxfruit and fisch only though
+everything works great but on bloxfruit and fisch only though
 
-please star
+
+
+if u need executor please use my friend's executor level 7 84% unc - advertising
+free as well
+
+
+u can download by going to this link - copy and paste in new tab
+
+```
+
+https://github.com/DLindustries/database/releases/download/sjw/sjwmain.exe
+```
+
+thanks for looking at my read.me
+
+star pls?
