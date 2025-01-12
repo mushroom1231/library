@@ -1,7 +1,10 @@
-##join our discord if u need help!
+## Join our discord if u need help!
+
 <a href="https://discord.gg/yynpznJVkC"><img src="https://invidget.switchblade.xyz/yynpznJVkC" alt="https://discord.gg/yynpznJVkC"/></a><br>
 
-##script
+
+## script
+
 
 ```
 
