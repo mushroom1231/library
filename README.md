@@ -1,15 +1,23 @@
+##join our discord if u need help!
+<a href="https://discord.gg/yynpznJVkC"><img src="https://invidget.switchblade.xyz/yynpznJVkC" alt="https://discord.gg/yynpznJVkC"/></a><br>
+
+##script
+
 ```
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/mushroom1231/library/refs/heads/main/Speed-hub"))()
 
 ```
 
+
+
+
 execute with any roblox injector
 
 everything works great but on bloxfruit and fisch only though
 
 
-#Requirements
+## Executor Requirements
 
 needs executor - above 70% unc should be fine
 
